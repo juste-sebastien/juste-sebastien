@@ -22,6 +22,7 @@ I'm a code learner :student: who looking for a work-study contract in France
 - 🌱 I’m currently learning web programing with CS50's course include Python, JS, Django and more
 - 👯 I’m looking to get a work-study contract in Dunkerque(59), Lille(59), Annemasse(74) or Annecy(74)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sebj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastien-juste/) or send me an [:envelope:](mailto:juste.sebastien@proton.me)
+- :muscle: See my other work: [![CodePen Badge](https://img.shields.io/badge/-CodePen-informational?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/cabronito)
 
 ---
 
