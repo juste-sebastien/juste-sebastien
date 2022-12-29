@@ -18,9 +18,9 @@
 
 I'm a code learner :student: who is looking for a work-study contract in France 
 
-- 🔭 I’m currently working on [Vault-App](https://github.com/juste-sebastien/vault/)
-- 🌱 I’m currently learning web programing with CS50's course including Python, JS, Django and more
-- 👯 I’m looking for a work-study contract in Dunkerque(59), Lille(59), Annemasse(74) or Annecy(74)
+- 🔭 I’m currently working on [My Lib'](https://github.com/juste-sebastien/my-lib/)
+- 🌱 I’ve just finished CS50 Web Programming, included Django for Back-end and JavaScript for Front-end
+- 👯 I’m looking for a work-study contract in Dunkerque(59), Lille(59), Lyon(69) Annemasse(74) or Annecy(74)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sebj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastien-juste/) or send me an [:envelope:](mailto:juste.sebastien@proton.me)
 - :muscle: See my other works: [![CodePen Badge](https://img.shields.io/badge/-CodePen-informational?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/cabronito)
 
@@ -31,6 +31,8 @@ I'm a code learner :student: who is looking for a work-study contract in France
 <div id="tools_languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="PyTest" alt="PyTest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
